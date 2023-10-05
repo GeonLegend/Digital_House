@@ -1,4 +1,4 @@
-/*Ejercitación correspondiente a la clase N° 3*/
+/*Ejercitación correspondiente a la clase N° 4*/
 /*Microdesafío 4*/
 let numero1 = 34;
 let numero2 = 43;

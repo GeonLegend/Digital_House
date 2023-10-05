@@ -1,4 +1,4 @@
-/*Ejercitación correspondiente a la clase N° 3*/
+/*Ejercitación correspondiente a la clase N° 4*/
 /*Desafío Extra*/
 let velocidad = 280;
 let altura = 240;

@@ -1,4 +1,4 @@
-/*Ejercitación correspondiente a la clase N° 3*/
+/*Ejercitación correspondiente a la clase N° 4*/
 /*Microdesafío 1*/
 let perfil = 'Administrador'
 if(perfil === ''){

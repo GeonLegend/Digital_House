@@ -1,4 +1,4 @@
-/*Ejercitación correspondiente a la clase N° 3*/
+/*Ejercitación correspondiente a la clase N° 4*/
 /*Microdesafío 2*/
 let pagoMes = 3500;
 let consumoKWH = 400;
