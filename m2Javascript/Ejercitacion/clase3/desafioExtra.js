@@ -1,3 +1,5 @@
+/*Ejercitación correspondiente a la clase N° 3*/
+/*Desafío Extra*/
 let numero1 = 15;
 let numero2 = 34;
 let suma = numero1 + numero2;
