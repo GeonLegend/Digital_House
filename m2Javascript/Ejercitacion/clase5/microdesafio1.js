@@ -1,5 +1,9 @@
 /*Ejercitación correspondiente a la clase N° 5*/
 /*Microdesafío 1*/
+const { before } = require("node:test");
+const { arrayBuffer } = require("stream/consumers");
+
+/*Microdesafío 1*/
 function alquilerDeVehiculo(tipoDeVehiculo, diasDeAlquiler, sillaParaBebe){
         if(tipoDeVehiculo === 'Compacto'){
             precioVehiculo = diasDeAlquiler * 14000;
